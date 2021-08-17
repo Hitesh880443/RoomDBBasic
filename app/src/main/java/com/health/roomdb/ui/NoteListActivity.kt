@@ -47,6 +47,7 @@ class NoteListActivity : AppCompatActivity() {
                         message = message_input.text.toString(),
                     )
                 )
+
                 title_input.text?.clear()
                 message_input.text?.clear()
 
